@@ -1,0 +1,32 @@
+{
+    "empregados": [
+        {
+            "id": 1,
+            "nome": "Adilson Jos\u00e9 dos Santos",
+            "cargo": "Analista",
+            "idade": 58,
+            "salario": 8000
+        },
+        {
+            "id": 3,
+            "nome": "Andr\u00e9 Melo Santos Santos",
+            "cargo": "Desenvolvedor",
+            "idade": 32,
+            "salario": 3500
+        },
+        {
+            "id": 4,
+            "nome": "Ramon Douglas da Silva",
+            "cargo": "Desenvolvedor",
+            "idade": 46,
+            "salario": 5000
+        },
+        {
+            "id": 5,
+            "nome": "Rayann Victor da Silva santos",
+            "cargo": "Tecnico",
+            "idade": 26,
+            "salario": 4500
+        }
+    ]
+}

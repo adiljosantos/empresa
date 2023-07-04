@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_empregados.TestEmpresa-20230704154913" tests="4" file="test_empregados.py" time="0.028" timestamp="2023-07-04T15:49:13" failures="0" errors="0" skipped="0">
+	<testcase classname="test_empregados.TestEmpresa" name="test_altera_empregado" time="0.007" timestamp="2023-07-04T15:49:13" file="test_empregados.py" line="47"/>
+	<testcase classname="test_empregados.TestEmpresa" name="test_delete_empregado" time="0.007" timestamp="2023-07-04T15:49:13" file="test_empregados.py" line="30"/>
+	<testcase classname="test_empregados.TestEmpresa" name="test_retorno_lista" time="0.001" timestamp="2023-07-04T15:49:13" file="test_empregados.py" line="26"/>
+	<testcase classname="test_empregados.TestEmpresa" name="test_url_status_code" time="0.013" timestamp="2023-07-04T15:49:13" file="test_empregados.py" line="22"/>
+</testsuite>
